@@ -24,11 +24,12 @@
 }
 
 button {
-  background-color: #33cccc;
+  background: linear-gradient(90deg, pink, yellow);
   border: none;
   color: black;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 11px;
+  border-radius: 10px
 }
